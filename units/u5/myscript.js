@@ -143,7 +143,7 @@ var myQuestions = [
   },
 
   {
-    question: "<h4>14. A large gear with \\({40}~{teeth}\\) rotates at \\({100}~{rpm}\\). If it turns a small gear of \\({16}~{teeth}\\), how fast does the small gear rotate?</h4> <img src='1_gear.png' width='110' height='150'>",
+    question: "<h4>14. A large gear with \\({40}~{teeth}\\) rotates at \\({100}~{rpm}\\). If it turns a small gear of \\({16}~{teeth}\\), how fast does the small gear rotate?</h4> <img src='/1_gear.png' width='110' height='150'>",
     answers: {
       a: '\\({150}~{rpm}\\)<br>',
       b: '\\({175}~{rpm}\\)<br>',
@@ -155,7 +155,7 @@ var myQuestions = [
   },
 
   {
-    question: "<h4>15. A small pulley with \\({16}~{cm}\\) in diameter rotates at \\({120}~{rpm}\\). If it turns a large pulley at \\({80}~{rpm}\\), what is the diameter of the large pulley?</h4> <img src='2_pulley.png' width='150' height='150'>",
+    question: "<h4>15. A small pulley with \\({16}~{cm}\\) in diameter rotates at \\({120}~{rpm}\\). If it turns a large pulley at \\({80}~{rpm}\\), what is the diameter of the large pulley?</h4> <img src='/2_pulley.png' width='150' height='150'>",
     answers: {
       a: '\\({24}~{cm}\\)<br>',
       b: '\\({30}~{cm}\\)<br>',
