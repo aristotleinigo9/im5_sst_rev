@@ -35,23 +35,23 @@ var myQuestions = [
   {
     question: "4. A cylindrical water tank has a diameter of \\({15}~{m}\\) and a height of \\({6}~{m}\\). What is the ratio of its height to its diameter? Simplify.",
     answers: {
-      a: '\\({5}:{3}\\)<br>',
+      a: '\\({5}:{2}\\)<br>',
       b: '\\({15}:{6}\\)<br>',
       c: '\\({6}:{15}\\)<br>',
-      d: '\\({3}:{5}\\)<br>'
+      d: '\\({2}:{5}\\)<br>'
     },
     correctAnswer: 'd'
   },
 
   {
-    question: "5. Find the ratio of \\({2}~{hours}\\) to \\({60}~{minutes}\\).Simplify.",
+    question: "5. Find the ratio of \\({2}~{hours}\\) to \\({60}~{minutes}\\). Simplify.",
     answers: {
       a: '\\({4}:{3}\\)<br>',
-      b: '\\({3}:{4}\\)<br>',
+      b: '\\({1}:{2}\\)<br>',
       c: '\\({160}:{2}\\)<br>',
-      d: '\\({1}:{80}\\)<br>'
+      d: '\\({2}:{1}\\)<br>'
     },
-    correctAnswer: 'b'
+    correctAnswer: 'd'
   },
 
   {
