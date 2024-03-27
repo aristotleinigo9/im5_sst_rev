@@ -91,7 +91,7 @@ var myQuestions = [
       c: '\\({19.9}~{cm}\\)<br>',
       d: '\\({19}~{cm}\\)'
     },
-    correctAnswer: 'c'
+    correctAnswer: 'b'
   },
   
   {
