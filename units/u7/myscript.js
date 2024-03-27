@@ -189,9 +189,9 @@ var myQuestions = [
   {
     question: "<h4>16. Find the volume of the cylinder below. Apply rules on measurement. Use \\(\\pi\=3.14\\).</h4> <img src='images/8_cylinder.png' width='175' height='250'>",
     answers: {
-      a: '\\({V=85.1}~{ft^3}\\)<br>',
+      a: '\\({V=0.851}~{ft^3}\\)<br>',
       b: '\\({V=85.0}~{ft^3}\\)<br>',
-      c: '\\({V=0.591}~{ft^3}\\)<br>',
+      c: '\\({V=5.91}~{ft^3}\\)<br>',
       d: '\\({V=0.591}~{ft^3}\\)',
 
     },
