@@ -142,12 +142,12 @@ var myQuestions = [
     correctAnswer: 'a'
   },
   {
-    question: "14. Convert \\({48.2}~{mi}\\) to \\({yd}\\).",
+    question: "14. Change \\({5}~{ft}\\) \\({7}~{in}\\) to \\({in}\\).",
     answers: {
-      a: '\\({144.6}~{yd}\\)<br>',
-      b: '\\({578.4}~{yd}\\)<br>',
-      c: '\\({1,735.2}~{yd}\\)<br>',
-      d: '\\({84,832}~{yd}\\)'
+      a: '\\({7.6}~{in}\\)<br>',
+      b: '\\({6.7}~{in}\\)<br>',
+      c: '\\({76}~{in}\\)<br>',
+      d: '\\({67}~{in}\\)'
     },
     correctAnswer: 'd'
   },
